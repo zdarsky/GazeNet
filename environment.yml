@@ -1,0 +1,18 @@
+name: eyetrack
+dependencies:
+  - python=3.7.*
+  - pip=20.0.*
+  - pip:
+    - numpy==1.18.*
+    - pandas==1.0.*
+    - plotly==4.7.*
+    - tqdm==4.43.*
+    - scipy==1.4.*
+    - scikit-image==0.14.*
+    - scikit-learn==0.19.*
+    - torch==1.4.*
+    - torchvision==0.5.*
+    - deeplabcut==2.1.6.2
+    - matplotlib==3.2.1
+    - tensorboard==1.15.*
+    - opencv-python==4.2.0.34
